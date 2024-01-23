@@ -1,0 +1,120 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --h2: Roboto;
+  --internal-side-navigation-button-item-description: "SF Pro";
+  --van-web: Exo;
+  --font-sf-pro-text: "SF Pro Text";
+  --font-sf-pro-display: "SF Pro Display";
+
+  /* font sizes */
+  --buttom-size: 14px;
+  --title-web-size: 24px;
+  --h2-size: 20px;
+  --internal-side-navigation-button-item-description-size: 12px;
+  --checkbox-size: 16px;
+  --menu-size: 13px;
+  --van-web-size: 22px;
+  --font-size-5xs: 8px;
+
+  /* Colors */
+  --color-background-input-hovered: #f7f8f9;
+  --background: #f5f5f5;
+  --scrollbar-default: rgba(0, 0, 0, 0.23);
+  --color-icon-disabled: rgba(9, 30, 66, 0.31);
+  --color-background-disabled: rgba(9, 30, 66, 0.03);
+  --color-background-neutral-subtle-default: rgba(0, 0, 0, 0);
+  --color-background-neutral-subtle-hovered: rgba(9, 30, 66, 0.06);
+  --color-blanket-default: rgba(9, 30, 66, 0.49);
+  --color-border-input: rgba(9, 30, 66, 0.14);
+  --color-gray-100: rgba(255, 255, 255, 0);
+  --color-text-inverse: #fff;
+  --role: #9fadbc;
+  --buttom: #0c66e4;
+  --black: #000;
+  --danger: #c9372c;
+  --color-text-danger: #ae2e24;
+  --stroke: #8696a7;
+  --color-text-default: #172b4d;
+  --deprecated-light-colortextsubtlest: #626f86;
+  --color-text-subtle: #44546f;
+  --color-background-warning-bold-default: #f5cd47;
+  --cce0ff: #cce0ff;
+  --ee2b8: #7ee2b8;
+  --color-background-selected-default: #e9f2ff;
+  --color-background-accent-magenta-subtlest-default: #ffecf8;
+  --color-border-accent-magenta: #cd519d;
+  --deprecated-light-colortextaccentmagenta: #943d73;
+  --e4e: #216e4e;
+  --muted: #d9d9d9;
+  --color-mistyrose: #ffe2e2;
+  --color-background-brand-bold-pressed: #09326c;
+
+  /* Spacing */
+  --space-150: 12px;
+  --space-050: 4px;
+  --space-075: 6px;
+  --space-100: 8px;
+  --space-300: 24px;
+  --space-200: 16px;
+  --space-025: 2px;
+  --space-500: 40px;
+  --space050: 4px;
+  --space-800: 64px;
+  --space-250: 20px;
+  --space-400: 32px;
+
+  /* Gaps */
+  --gap-3xs: 10px;
+  --gap-9xs: 4px;
+  --gap-5xs: 8px;
+  --gap-xs: 12px;
+  --gap-base: 16px;
+  --gap-7xs: 6px;
+  --gap-11xs: 2px;
+  --gap-5xl: 24px;
+  --gap-xl: 20px;
+
+  /* Paddings */
+  --padding-xs: 12px;
+  --padding-3xs: 10px;
+  --padding-base: 16px;
+  --padding-5xl: 24px;
+  --padding-9xs: 4px;
+  --padding-5xs: 8px;
+  --padding-11xs: 2px;
+  --padding-7xs: 6px;
+  --padding-21xl: 40px;
+  --padding-8xs: 5px;
+  --padding-xl: 20px;
+  --padding-71xl: 90px;
+  --padding-41xl: 60px;
+  --padding-31xl: 50px;
+  --padding-61xl: 80px;
+  --padding-11xl: 30px;
+  --padding-10xs: 3px;
+  --padding-19xl: 38px;
+  --padding-13xl: 32px;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+  --br-mini: 15px;
+  --br-10xs: 3px;
+  --br-3xs: 10px;
+  --br-12xs: 1px;
+  --br-80xl: 99px;
+  --br-base: 16px;
+  --br-45xl: 64px;
+  --br-5xs: 8px;
+  --br-8xs: 5px;
+  --br-lgi: 19px;
+  --br-9xs: 4px;
+  --br-81xl: 100px;
+
+  /* Effects */
+  --light-elevationshadowoverlay: 0px 0px 1px rgba(9, 30, 66, 0.31),
+    0px 8px 12px rgba(9, 30, 66, 0.15);
+}
